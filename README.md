@@ -43,9 +43,4 @@ The `sales` table includes:
 
 ---
 
-## How to Use
-1. Import `sales.sql` into your SQL database.  
-2. Run the script to:
-   - Create the `sales` table.  
-   - Clean the data.  
-   - Execute EDA queries.  
+
